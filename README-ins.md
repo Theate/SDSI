@@ -71,4 +71,5 @@ terminez l'action pour reprendre la main et relancez le script.
 ## 4 Supprimer les containers
 ```
 docker-compose down
+docker-compose rm
 ```
