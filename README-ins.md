@@ -57,4 +57,5 @@ et que la victime ne voit pas du tout les input/output de l'attaquant sur sa mac
 ## 4 Supprimer les containers
 ```
 docker-compose down
+docker-compose rm
 ```
